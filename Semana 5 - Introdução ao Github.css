@@ -1,0 +1,20 @@
+body {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    margin: 0px;
+    padding: 5px;
+	background-size: 100%;
+}
+
+
+body {
+ background-image: url(thanos.png);
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 100%;
+ position: absolute;
+}
+a:hover { color: rgb(255,255,100); }
